@@ -11,10 +11,8 @@
     <meta name="robots" content="index, follow">
     
     <title>Blog Sistem Informasi</title>
-</head>
 
-<body>
-    
+     
     <style>
         table {
             border-spacing: 0;
@@ -36,6 +34,9 @@
             font-weight: bold;
         }
     </style>
+</head>
+
+<body>
     <table>
         <td>
             <table>
